@@ -1,0 +1,10 @@
+# IDEs
+.idea/
+
+# Python
+.venv/
+
+# Build artifacts
+*.spec
+build/
+dist/
